@@ -1,0 +1,280 @@
+Epoch 0/139
+train Loss: 64.7730 Satellite_Acc: 0.0071  Street_Acc: 0.0000 Drone_Acc: 0.0285
+Epoch 1/139
+train Loss: 61.1510 Satellite_Acc: 0.0314  Street_Acc: 0.0086 Drone_Acc: 0.0699
+Epoch 2/139
+train Loss: 56.2165 Satellite_Acc: 0.1298  Street_Acc: 0.0029 Drone_Acc: 0.1341
+Epoch 3/139
+train Loss: 51.3282 Satellite_Acc: 0.2211  Street_Acc: 0.0014 Drone_Acc: 0.2083
+Epoch 4/139
+train Loss: 47.0708 Satellite_Acc: 0.3524  Street_Acc: 0.0057 Drone_Acc: 0.3024
+Epoch 5/139
+train Loss: 43.1149 Satellite_Acc: 0.4636  Street_Acc: 0.0043 Drone_Acc: 0.3880
+Epoch 6/139
+train Loss: 38.9573 Satellite_Acc: 0.6106  Street_Acc: 0.0071 Drone_Acc: 0.4793
+Epoch 7/139
+train Loss: 35.5495 Satellite_Acc: 0.6819  Street_Acc: 0.0043 Drone_Acc: 0.5592
+Epoch 8/139
+train Loss: 32.6544 Satellite_Acc: 0.7817  Street_Acc: 0.0057 Drone_Acc: 0.6177
+Epoch 9/139
+train Loss: 29.1063 Satellite_Acc: 0.8402  Street_Acc: 0.0029 Drone_Acc: 0.7147
+Epoch 10/139
+train Loss: 27.7443 Satellite_Acc: 0.8602  Street_Acc: 0.0014 Drone_Acc: 0.6876
+Epoch 11/139
+train Loss: 24.9617 Satellite_Acc: 0.9030  Street_Acc: 0.0086 Drone_Acc: 0.7846
+Epoch 12/139
+train Loss: 23.2555 Satellite_Acc: 0.9272  Street_Acc: 0.0014 Drone_Acc: 0.8174
+Epoch 13/139
+train Loss: 21.7069 Satellite_Acc: 0.9401  Street_Acc: 0.0029 Drone_Acc: 0.8388
+Epoch 14/139
+train Loss: 19.8559 Satellite_Acc: 0.9601  Street_Acc: 0.0086 Drone_Acc: 0.8502
+Epoch 15/139
+train Loss: 19.0004 Satellite_Acc: 0.9615  Street_Acc: 0.0057 Drone_Acc: 0.8745
+Epoch 16/139
+train Loss: 18.1994 Satellite_Acc: 0.9700  Street_Acc: 0.0014 Drone_Acc: 0.8902
+Epoch 17/139
+train Loss: 16.9303 Satellite_Acc: 0.9658  Street_Acc: 0.0014 Drone_Acc: 0.8930
+Epoch 18/139
+train Loss: 16.2981 Satellite_Acc: 0.9757  Street_Acc: 0.0014 Drone_Acc: 0.9158
+Epoch 19/139
+train Loss: 15.6543 Satellite_Acc: 0.9743  Street_Acc: 0.0029 Drone_Acc: 0.9230
+Epoch 20/139
+train Loss: 14.8215 Satellite_Acc: 0.9829  Street_Acc: 0.0057 Drone_Acc: 0.9272
+Epoch 21/139
+train Loss: 14.6554 Satellite_Acc: 0.9815  Street_Acc: 0.0043 Drone_Acc: 0.9173
+Epoch 22/139
+train Loss: 13.8258 Satellite_Acc: 0.9800  Street_Acc: 0.0043 Drone_Acc: 0.9544
+Epoch 23/139
+train Loss: 13.3119 Satellite_Acc: 0.9843  Street_Acc: 0.0043 Drone_Acc: 0.9472
+Epoch 24/139
+train Loss: 12.5918 Satellite_Acc: 0.9843  Street_Acc: 0.0043 Drone_Acc: 0.9586
+Epoch 25/139
+train Loss: 12.6894 Satellite_Acc: 0.9800  Street_Acc: 0.0014 Drone_Acc: 0.9387
+Epoch 26/139
+train Loss: 11.9898 Satellite_Acc: 0.9872  Street_Acc: 0.0029 Drone_Acc: 0.9444
+Epoch 27/139
+train Loss: 11.5826 Satellite_Acc: 0.9857  Street_Acc: 0.0057 Drone_Acc: 0.9558
+Epoch 28/139
+train Loss: 11.3515 Satellite_Acc: 0.9815  Street_Acc: 0.0014 Drone_Acc: 0.9572
+Epoch 29/139
+train Loss: 10.7158 Satellite_Acc: 0.9857  Street_Acc: 0.0057 Drone_Acc: 0.9672
+Epoch 30/139
+train Loss: 10.5926 Satellite_Acc: 0.9829  Street_Acc: 0.0043 Drone_Acc: 0.9686
+Epoch 31/139
+train Loss: 9.9344 Satellite_Acc: 0.9872  Street_Acc: 0.0000 Drone_Acc: 0.9672
+Epoch 32/139
+train Loss: 9.5901 Satellite_Acc: 0.9929  Street_Acc: 0.0014 Drone_Acc: 0.9729
+Epoch 33/139
+train Loss: 9.3812 Satellite_Acc: 0.9829  Street_Acc: 0.0029 Drone_Acc: 0.9700
+Epoch 34/139
+train Loss: 9.2739 Satellite_Acc: 0.9843  Street_Acc: 0.0029 Drone_Acc: 0.9786
+Epoch 35/139
+train Loss: 9.0129 Satellite_Acc: 0.9843  Street_Acc: 0.0043 Drone_Acc: 0.9757
+Epoch 36/139
+train Loss: 8.8392 Satellite_Acc: 0.9872  Street_Acc: 0.0043 Drone_Acc: 0.9686
+Epoch 37/139
+train Loss: 8.5697 Satellite_Acc: 0.9929  Street_Acc: 0.0043 Drone_Acc: 0.9686
+Epoch 38/139
+train Loss: 8.5892 Satellite_Acc: 0.9900  Street_Acc: 0.0000 Drone_Acc: 0.9601
+Epoch 39/139
+train Loss: 7.7953 Satellite_Acc: 0.9872  Street_Acc: 0.0071 Drone_Acc: 0.9843
+Epoch 40/139
+train Loss: 7.5123 Satellite_Acc: 0.9886  Street_Acc: 0.0000 Drone_Acc: 0.9800
+Epoch 41/139
+train Loss: 7.4437 Satellite_Acc: 0.9943  Street_Acc: 0.0043 Drone_Acc: 0.9715
+Epoch 42/139
+train Loss: 7.3962 Satellite_Acc: 0.9929  Street_Acc: 0.0000 Drone_Acc: 0.9729
+Epoch 43/139
+train Loss: 6.9483 Satellite_Acc: 0.9886  Street_Acc: 0.0057 Drone_Acc: 0.9658
+Epoch 44/139
+train Loss: 6.9062 Satellite_Acc: 0.9872  Street_Acc: 0.0043 Drone_Acc: 0.9686
+Epoch 45/139
+train Loss: 6.4024 Satellite_Acc: 0.9914  Street_Acc: 0.0043 Drone_Acc: 0.9800
+Epoch 46/139
+train Loss: 6.3032 Satellite_Acc: 0.9914  Street_Acc: 0.0043 Drone_Acc: 0.9729
+Epoch 47/139
+train Loss: 6.1362 Satellite_Acc: 0.9872  Street_Acc: 0.0029 Drone_Acc: 0.9772
+Epoch 48/139
+train Loss: 5.8660 Satellite_Acc: 0.9929  Street_Acc: 0.0043 Drone_Acc: 0.9800
+Epoch 49/139
+train Loss: 6.2695 Satellite_Acc: 0.9872  Street_Acc: 0.0014 Drone_Acc: 0.9686
+Epoch 50/139
+train Loss: 5.6699 Satellite_Acc: 0.9914  Street_Acc: 0.0086 Drone_Acc: 0.9900
+Epoch 51/139
+train Loss: 5.4074 Satellite_Acc: 0.9929  Street_Acc: 0.0014 Drone_Acc: 0.9757
+Epoch 52/139
+train Loss: 5.0636 Satellite_Acc: 0.9929  Street_Acc: 0.0029 Drone_Acc: 0.9957
+Epoch 53/139
+train Loss: 5.3598 Satellite_Acc: 0.9857  Street_Acc: 0.0014 Drone_Acc: 0.9800
+Epoch 54/139
+train Loss: 4.9467 Satellite_Acc: 0.9914  Street_Acc: 0.0057 Drone_Acc: 0.9843
+Epoch 55/139
+train Loss: 4.8490 Satellite_Acc: 0.9900  Street_Acc: 0.0057 Drone_Acc: 0.9772
+Epoch 56/139
+train Loss: 4.8134 Satellite_Acc: 0.9929  Street_Acc: 0.0071 Drone_Acc: 0.9886
+Epoch 57/139
+train Loss: 4.6657 Satellite_Acc: 0.9943  Street_Acc: 0.0029 Drone_Acc: 0.9843
+Epoch 58/139
+train Loss: 4.2712 Satellite_Acc: 0.9943  Street_Acc: 0.0014 Drone_Acc: 0.9829
+Epoch 59/139
+train Loss: 4.3283 Satellite_Acc: 0.9886  Street_Acc: 0.0029 Drone_Acc: 0.9815
+Epoch 60/139
+train Loss: 4.2550 Satellite_Acc: 0.9900  Street_Acc: 0.0029 Drone_Acc: 0.9843
+Epoch 61/139
+train Loss: 4.2210 Satellite_Acc: 0.9957  Street_Acc: 0.0029 Drone_Acc: 0.9800
+Epoch 62/139
+train Loss: 3.8341 Satellite_Acc: 0.9914  Street_Acc: 0.0014 Drone_Acc: 0.9900
+Epoch 63/139
+train Loss: 3.9414 Satellite_Acc: 0.9929  Street_Acc: 0.0014 Drone_Acc: 0.9843
+Epoch 64/139
+train Loss: 3.9015 Satellite_Acc: 0.9900  Street_Acc: 0.0014 Drone_Acc: 0.9872
+Epoch 65/139
+train Loss: 3.5907 Satellite_Acc: 0.9914  Street_Acc: 0.0000 Drone_Acc: 0.9943
+Epoch 66/139
+train Loss: 3.6754 Satellite_Acc: 0.9914  Street_Acc: 0.0000 Drone_Acc: 0.9872
+Epoch 67/139
+train Loss: 3.5378 Satellite_Acc: 0.9957  Street_Acc: 0.0043 Drone_Acc: 0.9872
+Epoch 68/139
+train Loss: 3.3094 Satellite_Acc: 0.9914  Street_Acc: 0.0000 Drone_Acc: 0.9900
+Epoch 69/139
+train Loss: 3.2761 Satellite_Acc: 0.9943  Street_Acc: 0.0029 Drone_Acc: 0.9843
+Epoch 70/139
+train Loss: 3.1438 Satellite_Acc: 0.9943  Street_Acc: 0.0043 Drone_Acc: 0.9829
+Epoch 71/139
+train Loss: 3.2525 Satellite_Acc: 0.9914  Street_Acc: 0.0000 Drone_Acc: 0.9800
+Epoch 72/139
+train Loss: 3.0454 Satellite_Acc: 0.9929  Street_Acc: 0.0000 Drone_Acc: 0.9900
+Epoch 73/139
+train Loss: 2.8987 Satellite_Acc: 0.9929  Street_Acc: 0.0029 Drone_Acc: 0.9900
+Epoch 74/139
+train Loss: 2.9453 Satellite_Acc: 0.9971  Street_Acc: 0.0057 Drone_Acc: 0.9886
+Epoch 75/139
+train Loss: 2.9937 Satellite_Acc: 0.9929  Street_Acc: 0.0000 Drone_Acc: 0.9800
+Epoch 76/139
+train Loss: 2.7445 Satellite_Acc: 0.9929  Street_Acc: 0.0043 Drone_Acc: 0.9886
+Epoch 77/139
+train Loss: 2.8019 Satellite_Acc: 0.9957  Street_Acc: 0.0071 Drone_Acc: 0.9872
+Epoch 78/139
+train Loss: 2.6521 Satellite_Acc: 0.9943  Street_Acc: 0.0029 Drone_Acc: 0.9929
+Epoch 79/139
+train Loss: 2.6202 Satellite_Acc: 0.9914  Street_Acc: 0.0014 Drone_Acc: 0.9886
+Epoch 80/139
+train Loss: 2.6174 Satellite_Acc: 0.9957  Street_Acc: 0.0029 Drone_Acc: 0.9914
+Epoch 81/139
+train Loss: 2.3525 Satellite_Acc: 0.9914  Street_Acc: 0.0043 Drone_Acc: 0.9929
+Epoch 82/139
+train Loss: 2.3236 Satellite_Acc: 0.9971  Street_Acc: 0.0029 Drone_Acc: 0.9886
+Epoch 83/139
+train Loss: 2.3269 Satellite_Acc: 0.9914  Street_Acc: 0.0071 Drone_Acc: 0.9943
+Epoch 84/139
+train Loss: 2.3592 Satellite_Acc: 0.9957  Street_Acc: 0.0014 Drone_Acc: 0.9929
+Epoch 85/139
+train Loss: 2.3122 Satellite_Acc: 0.9971  Street_Acc: 0.0014 Drone_Acc: 0.9900
+Epoch 86/139
+train Loss: 2.5016 Satellite_Acc: 0.9929  Street_Acc: 0.0029 Drone_Acc: 0.9857
+Epoch 87/139
+train Loss: 2.1446 Satellite_Acc: 0.9971  Street_Acc: 0.0029 Drone_Acc: 0.9914
+Epoch 88/139
+train Loss: 2.3079 Satellite_Acc: 0.9957  Street_Acc: 0.0000 Drone_Acc: 0.9857
+Epoch 89/139
+train Loss: 2.1937 Satellite_Acc: 0.9943  Street_Acc: 0.0014 Drone_Acc: 0.9914
+Epoch 90/139
+train Loss: 2.2802 Satellite_Acc: 0.9943  Street_Acc: 0.0014 Drone_Acc: 0.9843
+Epoch 91/139
+train Loss: 2.1755 Satellite_Acc: 0.9914  Street_Acc: 0.0029 Drone_Acc: 0.9914
+Epoch 92/139
+train Loss: 2.2406 Satellite_Acc: 0.9943  Street_Acc: 0.0029 Drone_Acc: 0.9857
+Epoch 93/139
+train Loss: 2.1319 Satellite_Acc: 0.9943  Street_Acc: 0.0029 Drone_Acc: 0.9929
+Epoch 94/139
+train Loss: 2.0485 Satellite_Acc: 0.9929  Street_Acc: 0.0043 Drone_Acc: 0.9929
+Epoch 95/139
+train Loss: 2.0247 Satellite_Acc: 0.9957  Street_Acc: 0.0014 Drone_Acc: 0.9914
+Epoch 96/139
+train Loss: 2.0629 Satellite_Acc: 0.9971  Street_Acc: 0.0029 Drone_Acc: 0.9929
+Epoch 97/139
+train Loss: 2.1105 Satellite_Acc: 0.9957  Street_Acc: 0.0043 Drone_Acc: 0.9900
+Epoch 98/139
+train Loss: 2.2179 Satellite_Acc: 0.9929  Street_Acc: 0.0029 Drone_Acc: 0.9872
+Epoch 99/139
+train Loss: 2.1376 Satellite_Acc: 0.9943  Street_Acc: 0.0043 Drone_Acc: 0.9900
+Epoch 100/139
+train Loss: 2.0473 Satellite_Acc: 0.9957  Street_Acc: 0.0014 Drone_Acc: 0.9943
+Epoch 101/139
+train Loss: 2.0361 Satellite_Acc: 0.9957  Street_Acc: 0.0057 Drone_Acc: 0.9971
+Epoch 102/139
+train Loss: 2.0811 Satellite_Acc: 0.9943  Street_Acc: 0.0000 Drone_Acc: 0.9886
+Epoch 103/139
+train Loss: 2.0362 Satellite_Acc: 0.9943  Street_Acc: 0.0043 Drone_Acc: 0.9943
+Epoch 104/139
+train Loss: 2.0796 Satellite_Acc: 0.9957  Street_Acc: 0.0029 Drone_Acc: 0.9886
+Epoch 105/139
+train Loss: 2.0962 Satellite_Acc: 0.9943  Street_Acc: 0.0014 Drone_Acc: 0.9943
+Epoch 106/139
+train Loss: 2.0999 Satellite_Acc: 0.9986  Street_Acc: 0.0043 Drone_Acc: 0.9914
+Epoch 107/139
+train Loss: 2.0032 Satellite_Acc: 0.9929  Street_Acc: 0.0043 Drone_Acc: 0.9900
+Epoch 108/139
+train Loss: 2.1823 Satellite_Acc: 0.9943  Street_Acc: 0.0029 Drone_Acc: 0.9815
+Epoch 109/139
+train Loss: 2.0086 Satellite_Acc: 0.9943  Street_Acc: 0.0071 Drone_Acc: 0.9943
+Epoch 110/139
+train Loss: 1.9381 Satellite_Acc: 0.9971  Street_Acc: 0.0043 Drone_Acc: 0.9914
+Epoch 111/139
+train Loss: 1.9556 Satellite_Acc: 0.9943  Street_Acc: 0.0029 Drone_Acc: 0.9943
+Epoch 112/139
+train Loss: 1.9300 Satellite_Acc: 0.9943  Street_Acc: 0.0071 Drone_Acc: 0.9914
+Epoch 113/139
+train Loss: 2.0010 Satellite_Acc: 0.9971  Street_Acc: 0.0014 Drone_Acc: 0.9872
+Epoch 114/139
+train Loss: 1.9791 Satellite_Acc: 0.9929  Street_Acc: 0.0014 Drone_Acc: 0.9929
+Epoch 115/139
+train Loss: 1.8879 Satellite_Acc: 0.9957  Street_Acc: 0.0029 Drone_Acc: 0.9943
+Epoch 116/139
+train Loss: 1.8463 Satellite_Acc: 0.9957  Street_Acc: 0.0029 Drone_Acc: 0.9900
+Epoch 117/139
+train Loss: 1.9931 Satellite_Acc: 0.9929  Street_Acc: 0.0014 Drone_Acc: 0.9929
+Epoch 118/139
+train Loss: 2.0006 Satellite_Acc: 0.9971  Street_Acc: 0.0014 Drone_Acc: 0.9929
+Epoch 119/139
+train Loss: 1.8537 Satellite_Acc: 0.9971  Street_Acc: 0.0014 Drone_Acc: 0.9929
+Epoch 120/139
+train Loss: 1.8672 Satellite_Acc: 0.9929  Street_Acc: 0.0057 Drone_Acc: 0.9929
+Epoch 121/139
+train Loss: 1.9264 Satellite_Acc: 0.9914  Street_Acc: 0.0029 Drone_Acc: 0.9872
+Epoch 122/139
+train Loss: 1.9802 Satellite_Acc: 0.9957  Street_Acc: 0.0029 Drone_Acc: 0.9900
+Epoch 123/139
+train Loss: 1.8486 Satellite_Acc: 0.9943  Street_Acc: 0.0057 Drone_Acc: 0.9957
+Epoch 124/139
+train Loss: 1.9218 Satellite_Acc: 0.9971  Street_Acc: 0.0029 Drone_Acc: 0.9900
+Epoch 125/139
+train Loss: 1.7845 Satellite_Acc: 0.9957  Street_Acc: 0.0043 Drone_Acc: 0.9943
+Epoch 126/139
+train Loss: 1.8912 Satellite_Acc: 0.9943  Street_Acc: 0.0057 Drone_Acc: 0.9929
+Epoch 127/139
+train Loss: 2.0128 Satellite_Acc: 0.9914  Street_Acc: 0.0029 Drone_Acc: 0.9857
+Epoch 128/139
+train Loss: 1.8620 Satellite_Acc: 0.9943  Street_Acc: 0.0029 Drone_Acc: 0.9914
+Epoch 129/139
+train Loss: 1.8444 Satellite_Acc: 0.9957  Street_Acc: 0.0014 Drone_Acc: 0.9914
+Epoch 130/139
+train Loss: 1.8480 Satellite_Acc: 0.9943  Street_Acc: 0.0014 Drone_Acc: 0.9929
+Epoch 131/139
+train Loss: 1.9139 Satellite_Acc: 0.9943  Street_Acc: 0.0029 Drone_Acc: 0.9886
+Epoch 132/139
+train Loss: 1.8079 Satellite_Acc: 0.9971  Street_Acc: 0.0057 Drone_Acc: 0.9929
+Epoch 133/139
+train Loss: 1.8886 Satellite_Acc: 0.9957  Street_Acc: 0.0000 Drone_Acc: 0.9943
+Epoch 134/139
+train Loss: 1.8295 Satellite_Acc: 0.9957  Street_Acc: 0.0057 Drone_Acc: 0.9900
+Epoch 135/139
+train Loss: 1.8394 Satellite_Acc: 0.9971  Street_Acc: 0.0057 Drone_Acc: 0.9872
+Epoch 136/139
+train Loss: 1.9385 Satellite_Acc: 0.9957  Street_Acc: 0.0043 Drone_Acc: 0.9872
+Epoch 137/139
+train Loss: 1.9453 Satellite_Acc: 0.9971  Street_Acc: 0.0014 Drone_Acc: 0.9914
+Epoch 138/139
+train Loss: 1.8333 Satellite_Acc: 0.9943  Street_Acc: 0.0057 Drone_Acc: 0.9886
+Epoch 139/139
+train Loss: 1.8842 Satellite_Acc: 0.9957  Street_Acc: 0.0043 Drone_Acc: 0.9900

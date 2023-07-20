@@ -1,0 +1,16 @@
+Drone---Satellite,LPN+PVt-v2-B2+2_branch,university1652
+torch.Size([37855, 2560])
+torch.Size([951, 2560])
+10
+Recall@1:86.79 Recall@5:95.26 Recall@10:96.72 Recall@top1:96.87 AP:88.69
+Satellite---Drone,LPN+PVt-v2-B2+2_branch,university1652
+torch.Size([701, 2560])
+torch.Size([51355, 2560])
+514
+Recall@1:91.58 Recall@5:94.29 Recall@10:95.44 Recall@top1:98.86 AP:85.54
+Drone---Satellite,LPN+PVt-v2-B2+2_branch,university160k
+torch.Size([37855, 2560])
+torch.Size([168437, 2560])
+1684
+Recall@1:82.43 Recall@5:90.44 Recall@10:92.10 Recall@top1:98.32 AP:84.28
+Drone---Satellite,LPN+PVt-v2-B2+2_branch,university160k-6.22号测试

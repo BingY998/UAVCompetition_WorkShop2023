@@ -1,0 +1,11 @@
+LPN+Pvt_v2+drn+two_branch-3-512x512--University160K
+torch.Size([37855, 2560])
+torch.Size([168437, 2560])
+1684
+Recall@1:85.73 Recall@5:93.84 Recall@10:95.10 Recall@top1:99.08 AP:87.59
+
+LPN+Pvt_v2+drn+two_branch-3-512x512--University1652
+torch.Size([37855, 2560])
+torch.Size([951, 2560])
+10
+Recall@1:88.42 Recall@5:96.59 Recall@10:97.80 Recall@top1:97.90 AP:90.28
